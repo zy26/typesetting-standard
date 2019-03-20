@@ -128,6 +128,7 @@
 * [【GF 0012-2009】GB13000.1字符集汉字部首归部规范][gf0012-2009]
 * [【GF 0013-2009】现代常用独体字规范][gf0013-2009]
 * [【GF 0014-2009】现代常用字部件及部件名称规范][gf0014-2009]
+* [【GF 3003-1999】GB 13000.1字符集汉字字序（笔画序）规范][gf3003-1999]
 
 [gf1001-2001]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E3%80%90GF%201001-2001%E3%80%91%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BC%82%E5%BD%A2%E8%AF%8D%E6%95%B4%E7%90%86%E8%A1%A8.pdf
 
@@ -140,6 +141,8 @@
 [gf0013-2009]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E3%80%90GF%200013-2009%E3%80%91%E7%8E%B0%E4%BB%A3%E5%B8%B8%E7%94%A8%E7%8B%AC%E4%BD%93%E5%AD%97%E8%A7%84%E8%8C%83.pdf
 
 [gf0014-2009]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E3%80%90GF%200014-2009%E3%80%91%E7%8E%B0%E4%BB%A3%E5%B8%B8%E7%94%A8%E5%AD%97%E9%83%A8%E4%BB%B6%E5%8F%8A%E9%83%A8%E4%BB%B6%E5%90%8D%E7%A7%B0%E8%A7%84%E8%8C%83.pdf
+
+[gf3003-1999]: https://github.com/GreenYun/typesetting-standard/blob/master/%E6%95%B0%E5%AD%97%E6%96%87%E5%AD%97/%E3%80%90GF%203003-1999%E3%80%91GB%2013000.1%E5%AD%97%E7%AC%A6%E9%9B%86%E6%B1%89%E5%AD%97%E5%AD%97%E5%BA%8F%EF%BC%88%E7%AC%94%E7%94%BB%E5%BA%8F%EF%BC%89%E8%A7%84%E8%8C%83.pdf
 
 ### 现行的行业规范
 
